@@ -41,4 +41,8 @@ References，点击 Add  new  Reference，在打开文件选择窗口找到 Rele
 目录下的 RestSharp.winmd 和 WeiboSDKForWinRT.winmd 文件，点击 Add
 将它们添加到项目引用中去。   
 
+###SDK使用参考：
+>请见该仓库的 微博Windows 8平台SDK使用说明.pdf 文件  
+>或在此下载 <http://weibowinrtsdk.codeplex.com/downloads/get/636457>
+
 
